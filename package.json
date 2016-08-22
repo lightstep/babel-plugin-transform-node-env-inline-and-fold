@@ -1,0 +1,14 @@
+{
+  "description": "A fork of babel-plugin-transform-node-env-inline that drops branches evaluating to false.",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "babel-plugin-transform-node-env-inline-and-fold",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lightstep/babel-plugin-transform-node-env-inline-and-fold"
+  },
+  "version": "6.8.1"
+}
