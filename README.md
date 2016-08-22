@@ -4,9 +4,11 @@ A slightly modified fork of [`babel-plugin-transform-node-env-inline`](https://w
 
 *NOTE: this is not a proper GitHub fork as the git URLs for the original project no longer exist.*
 
+*What follows is the original README for `babel-plugin-transform-node-env-inline`*
+
 ----
 
-*What follows is the original documentation for `babel-plugin-transform-node-env-inline`*
+# babel-plugin-transform-node-env-inline
 
 Inline the `NODE_ENV` environment variable and if it's a part of a binary expression
 (eg. `process.env.NODE_ENV === "development"`) then statically evaluate and replace it.
